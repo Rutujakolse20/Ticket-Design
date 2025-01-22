@@ -75,7 +75,7 @@ body {
     color: black;
   }
   
-  /* Responsive Styles */
+  
   @media (max-width: 600px) {
     .ticket {
       width: 110%;
